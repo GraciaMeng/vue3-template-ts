@@ -23,6 +23,8 @@ module.exports = {
         assets: "@/assets",
         api: "@/api",
         utils: "@/utils",
+        store: "@/store",
+        hooks: "@/hooks",
       },
     },
   },
